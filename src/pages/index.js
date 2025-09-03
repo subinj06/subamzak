@@ -149,7 +149,7 @@ const IndexPage = () => (
           <p>
             Here is preview. If you want more, Click the menu and category.
             <br/>
-            <div className="korean">맛보기에요. 더 자세한 설명은 메뉴에서 원하시는 영역을 선택해주세요.</div>
+            <div className="korean">맛보기에요. 우측상단의 메뉴에 더 있어요 !</div>
           </p>
         </header>
         <ul className="features">
@@ -198,7 +198,7 @@ const IndexPage = () => (
         </header>
         <ul className="actions stacked">
           <li>
-            <a href="https://blog.naver.com/60subin" className="button fit primary">
+            <a href="https://blog.naver.com/suhamter" className="button fit primary">
               BLOG
             </a>
           </li>
