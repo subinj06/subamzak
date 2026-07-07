@@ -20,6 +20,17 @@ exports.onCreateWebpackConfig = ({ actions, getConfig }) => {
     new webpack.NormalModuleReplacementPlugin(
       /^core-js\/modules\/es\.array\.sort\.js$/,
       path.resolve(__dirname, 'node_modules/core-js/modules/es.array.sort.js')
+    ),
+    new webpack.NormalModuleReplacementPlugin(
+      /^core-js\/modules\/es\.array\.flat\.js$/,
+      path.resolve(__dirname, 'node_modules/core-js/modules/es.array.flat.js')
+    ),
+    new webpack.NormalModuleReplacementPlugin(
+      /^core-js\/modules\/es\.array\.unscopables\.flat\.js$/,
+      path.resolve(
+        __dirname,
+        'node_modules/core-js/modules/es.array.unscopables.flat.js'
+      )
     )
   );
 
