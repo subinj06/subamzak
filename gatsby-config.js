@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: config.siteTitle,
     author: 'Subin Jeong',
-    description: "Subin's Nightmares are all here...",
+    description: "멸치 키우는 수햄\nSubin's Nightmares are all here...",
     url:"https://subamzak.netlify.app",
   },
   
@@ -24,7 +24,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
-    'gatsby-plugin-offline',
+    //'gatsby-plugin-offline',
        
     {
         resolve: `gatsby-source-filesystem`,
