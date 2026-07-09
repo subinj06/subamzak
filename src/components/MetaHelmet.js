@@ -7,7 +7,7 @@ const MetaHelmet = ({title}) => {
     const page = {
         url: "https://subamzak.netlify.app" + "",
         image: banner,
-        description: "Subin's nightmares are all here... My projects room",
+        description: "수빈이 밤샘 작업들\nSubin's nightmares are all here... My projects room",
         keywords: "project, blog, programming, mechanics, electronics, computer, mechatronics",
     }
 	return (

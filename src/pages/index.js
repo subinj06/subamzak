@@ -198,12 +198,12 @@ const IndexPage = () => (
         </header>
         <ul className="actions stacked">
           <li>
-            <a href="https://blog.naver.com/suhamter" className="button fit primary">
+            <a href="javascript:window.open('https://blog.naver.com/suhamter','수햄터!','')" className="button fit primary">
               BLOG
             </a>
           </li>
           <li>
-            <a href="https://www.youtube.com/channel/UCAMO0Hp7B8_UXH4A-kwkr5w" className="button fit">
+            <a href="javascript:window.open('https://www.youtube.com/channel/UCAMO0Hp7B8_UXH4A-kwkr5w','유튜브!','')" className="button fit">
               YouTUBE
             </a>
           </li>

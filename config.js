@@ -16,7 +16,7 @@ module.exports = {
       style: 'brands',
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/ok60subin',
+      url: 'https://github.com/subinj06',
     },
     // {
     //   style: 'brands',
