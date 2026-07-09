@@ -4,7 +4,7 @@ title: "전자회로 실험"
 published: true
 grade: "2"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/jeonjacover.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/jeonjacover.png?raw=true"
 ---
 <h3>익스트림 오토매틱 핀볼</h3>
     <p>
@@ -22,10 +22,10 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/jeon
     <div class="box alt twoimg">
         <div class="row gtr-50 gtr-uniform imgs multi">
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/pincircuit.png?raw=true" alt="pincircuit">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/pincircuit.png?raw=true" alt="pincircuit">
             </span></div>
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/pincircuit2.png?raw=true" alt="pincircuit2">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/pincircuit2.png?raw=true" alt="pincircuit2">
             </span></div>
         </div>
     </div>

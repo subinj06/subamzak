@@ -4,7 +4,7 @@ title: "데이터베이스"
 published: true
 grade: "4"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/dbcover.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/dbcover.png?raw=true"
 ---
 
 <h3>스마트 약국 키오스크를 위한 데이터베이스 </h3>
@@ -19,10 +19,10 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/dbco
      <div class="box alt twoimg">
         <div class="row gtr-50 gtr-uniform imgs multi">
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/dbcover.png?raw=true" alt="molcad">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/dbcover.png?raw=true" alt="molcad">
             </span></div>
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/dbmodel.png?raw=true"alt="moleCIRCUIT">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/dbmodel.png?raw=true"alt="moleCIRCUIT">
             </span></div>
         </div>
     </div>

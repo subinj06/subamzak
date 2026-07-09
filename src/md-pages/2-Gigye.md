@@ -4,7 +4,7 @@ title: "기계공작실습"
 published: true
 grade: "2"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/sun.png?raw=true"
 ---
 
 <h3>개요</h3>
@@ -20,13 +20,13 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.
     <div class="box alt threeimg">
         <div class="row gtr-50 gtr-uniform imgs multi">
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun_do1.png?raw=true" alt="sun_do1">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/sun_do1.png?raw=true" alt="sun_do1">
              </div></span>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun_do2.png?raw=true" alt="sun_do2">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/sun_do2.png?raw=true" alt="sun_do2">
              </div></span>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun_do3.png?raw=true" alt="sun_do3">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/sun_do3.png?raw=true" alt="sun_do3">
              </div></span>
         </div>
     </div>
@@ -34,13 +34,13 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.
     <div class="box alt threeimg">
         <div class="row gtr-50 gtr-uniform imgs multi">
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun1.png?raw=true" alt="sun1">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/sun1.png?raw=true" alt="sun1">
             </div></span>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun2.png?raw=true" alt="sun2">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/sun2.png?raw=true" alt="sun2">
             </div></span>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun3.png?raw=true" alt="sun3">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/sun3.png?raw=true" alt="sun3">
             </div></span>
         </div>
     </div>
@@ -49,7 +49,7 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.
         <div class="row gtr-50 gtr-uniform ">
             <div class="col-12">
             <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.png?raw=true" alt="sun">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/sun.png?raw=true" alt="sun">
             </span>
             </div>
         </div>
@@ -63,13 +63,13 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.
     <div class="box alt threeimg">
         <div class="row gtr-50 gtr-uniform imgs multi small">
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mil_do1.png?raw=true" alt="mil_do1">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/mil_do1.png?raw=true" alt="mil_do1">
             </span></div>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mil_do2.png?raw=true" alt="mil_do2">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/mil_do2.png?raw=true" alt="mil_do2">
             </span></div>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mil_do3.png?raw=true" alt="mil_do3">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/mil_do3.png?raw=true" alt="mil_do3">
             </span></div>
         </div>
     </div>
@@ -77,10 +77,10 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.
     <div class="box alt twoimg">
         <div class="row gtr-50 gtr-uniform imgs multi small">
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mil12.png?raw=true" alt="mil12" >
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/mil12.png?raw=true" alt="mil12" >
             </span> </div>
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mil3.png?raw=true" alt="mil3" >
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/mil3.png?raw=true" alt="mil3" >
             </span> </div>
             
         </div>
@@ -95,13 +95,13 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.
     <div class="box alt threeimg">
         <div class="row gtr-50 gtr-uniform imgs multi">
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/yong_do1.png?raw=true" alt="yong_do1">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/yong_do1.png?raw=true" alt="yong_do1">
             </span></div>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/yong_do2.png?raw=true" alt="yong_do2">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/yong_do2.png?raw=true" alt="yong_do2">
             </span></div>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/yong_do3.png?raw=true" alt="yong_do3">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/yong_do3.png?raw=true" alt="yong_do3">
             </span></div>
         </div>
     </div>
@@ -109,13 +109,13 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.
     <div class="box alt threeimg">
         <div class="row gtr-50 gtr-uniform imgs small">
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/yong1.png?raw=true" alt="yong1">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/yong1.png?raw=true" alt="yong1">
             </span></div>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/yong2.png?raw=true" alt="yong2">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/yong2.png?raw=true" alt="yong2">
             </span></div>
             <div class="col-4"><span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/yong3.png?raw=true" alt="yong3">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/yong3.png?raw=true" alt="yong3">
             </span></div>
         </div>
     </div>

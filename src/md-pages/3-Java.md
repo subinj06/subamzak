@@ -4,7 +4,7 @@ title: "고급 JAVA Progamming"
 published: true
 grade: "3"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/java_main.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/java_main.png?raw=true"
 ---
 
 <h3> 충남대학교 편의시설 위치 서비스</h3>
@@ -17,16 +17,16 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/java
 <div class="box alt threeimg">
             <div class="row gtr-50 gtr-uniform imgs prize">
                 <div class="col-3"><span class="image fit">
-                    <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/java_main.png?raw=true" alt="java_main">
+                    <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/java_main.png?raw=true" alt="java_main">
                 </span></div>
                 <div class="col-3"><span class="image fit">
-                    <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/java_map.png?raw=true" alt="java_map">
+                    <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/java_map.png?raw=true" alt="java_map">
                 </span></div>
                 <div class="col-3"><span class="image fit">
-                    <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/java_list.png?raw=true" alt="java_list" >
+                    <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/java_list.png?raw=true" alt="java_list" >
                 </span></div>
                 <div class="col-3"><span class="image fit">
-                    <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/java_build.png?raw=true" alt="java_build" >
+                    <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/java_build.png?raw=true" alt="java_build" >
                 </span></div>
             </div>
 </div>

@@ -4,7 +4,7 @@ title: "모바일 프로그래밍"
 published: true
 grade: "3"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mop.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/mop.png?raw=true"
 ---
 
 <h3>교수 - 학생 소통 어플리케이션</h3>

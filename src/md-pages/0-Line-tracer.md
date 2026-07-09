@@ -4,7 +4,7 @@ title: "라인 트레이서 대회"
 published: true
 grade: "0"
 competition: true
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/lt_third.jpg?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/lt_third.jpg?raw=true"
 description: "라인트레이서(Linetracer) 대회출전 및 수상실적"
 ---
 
@@ -21,7 +21,7 @@ description: "라인트레이서(Linetracer) 대회출전 및 수상실적"
 <h4>완성</h4>
 <div class="box alt">
     <div class="row gtr-50 gtr-uniform prize">
-    <div class="col-12"><span class="image fit"><img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/lt_second.jpg?raw=true" alt="second_lt"></span></div>
+    <div class="col-12"><span class="image fit"><img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/lt_second.jpg?raw=true" alt="second_lt"></span></div>
     </div>
         </div>
 <h4>결과</h4>
@@ -29,8 +29,8 @@ description: "라인트레이서(Linetracer) 대회출전 및 수상실적"
 
 <div class="box alt threeimg">
               <div class="row gtr-50 gtr-uniform imgs prize">
-                <div class="col-4"><span class="image fit"><img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/se_c.png?raw=true"  alt="se_C"></span></div>
-                <div class="col-4"><span class="image fit"><img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/se_d.png?raw=true" alt="se_D"></span></div>
+                <div class="col-4"><span class="image fit"><img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/se_c.png?raw=true"  alt="se_C"></span></div>
+                <div class="col-4"><span class="image fit"><img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/se_d.png?raw=true" alt="se_D"></span></div>
               </div>
 </div>
 
@@ -61,15 +61,15 @@ description: "라인트레이서(Linetracer) 대회출전 및 수상실적"
 <h4>완성</h4>
 <div class="box alt">
     <div class="row gtr-50 gtr-uniform prize">
-    <div class="col-12"><span class="image fit"> <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/lt_third.jpg?raw=true" alt="third_lt"></span></div>
+    <div class="col-12"><span class="image fit"> <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/lt_third.jpg?raw=true" alt="third_lt"></span></div>
     </div>
 </div>
 <h4>결과</h4>
 
 <div class="box alt threeimg">
               <div class="row gtr-50 gtr-uniform imgs prize">
-                <div class="col-4"><span class="image fit"><img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/th_d.png?raw=true"  alt="third_danguk"></span></div>
-                <div class="col-4"><span class="image fit"><img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/th_s.png?raw=true" alt="third_sirip"></span></div>
+                <div class="col-4"><span class="image fit"><img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/th_d.png?raw=true"  alt="third_danguk"></span></div>
+                <div class="col-4"><span class="image fit"><img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/th_s.png?raw=true" alt="third_sirip"></span></div>
               </div>
 </div>
 

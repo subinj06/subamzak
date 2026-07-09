@@ -4,7 +4,7 @@ title: "컴퓨터 응용 제도"
 published: true
 grade: "2"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mixer.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/mixer.png?raw=true"
 ---
 <h3>Parametic CREO</h3>
     <h4>Hand blender</h4>

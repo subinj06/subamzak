@@ -4,7 +4,7 @@ title: "창의적 설계 및 입문"
 published: true
 grade: "1"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/suncar2.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/suncar2.png?raw=true"
 ---
 <h3>태양전지 자동차</h3>
             <h4>개요</h4>
@@ -17,7 +17,7 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sunc
             <div class="box alt">
                 <div class="row gtr-50 gtr-uniform">
                     <div class="col-12" style="height:1100px;"><span class="image fit" style="height:1100px;"> 
-                        <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/suncar.png?raw=true" alt="suncar" style="height:1100px;">
+                        <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/suncar.png?raw=true" alt="suncar" style="height:1100px;">
                     </span></div>
                 </div>
             </div>
@@ -25,7 +25,7 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sunc
             <div class="box alt">
                 <div class="row gtr-50 gtr-uniform">
                     <div class="col-12"><span class="image fit"> 
-                        <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/suncar2.png?raw=true" alt="suncar2" >
+                        <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/suncar2.png?raw=true" alt="suncar2" >
                     </span></div>
                 </div>
             </div>

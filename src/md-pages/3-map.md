@@ -17,7 +17,7 @@ cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUdYh8JTACmwQbD6
     <div class="box alt">
         <div class="row gtr-50 gtr-uniform">
             <div class="col-12"><span class="image fit"> 
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/appinventor.png?raw=true" alt="appinventor" >
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/appinventor.png?raw=true" alt="appinventor" >
             </span></div>
         </div>
     </div>
@@ -27,7 +27,7 @@ cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUdYh8JTACmwQbD6
     <div class="box alt">
         <div class="row gtr-50 gtr-uniform">
             <div class="col-12"><span class="image fit"> 
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/appinventor.png?raw=true" alt="appinventor" >
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/appinventor.png?raw=true" alt="appinventor" >
             </span></div>
         </div>
     </div>
@@ -37,7 +37,7 @@ cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUdYh8JTACmwQbD6
         <div class="box alt">
             <div class="row gtr-50 gtr-uniform">
                 <div class="col-12"><span class="image fit"> 
-                    <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/circuit.png?raw=true" alt="circuit" >
+                    <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/circuit.png?raw=true" alt="circuit" >
                 </span></div>
             </div>
          </div>
@@ -47,7 +47,7 @@ cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUdYh8JTACmwQbD6
         <div class="box alt">
             <div class="row gtr-50 gtr-uniform">
                 <div class="col-12"><span class="image fit"> 
-                    <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/cadd.png?raw=true" alt="cadd" >
+                    <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/cadd.png?raw=true" alt="cadd" >
                 </span></div>
             </div>
         </div>
@@ -58,10 +58,10 @@ cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUdYh8JTACmwQbD6
     <div class="box alt twoimg">
         <div class="row gtr-50 gtr-uniform imgs multi">
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/app.png?raw=true" alt="app">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/app.png?raw=true" alt="app">
             </span></div>
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/app2.png?raw=true" alt="app2">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/app2.png?raw=true" alt="app2">
             </span></div>
         </div>
     </div>
@@ -71,7 +71,7 @@ cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUdYh8JTACmwQbD6
     <div class="box alt">
         <div class="row gtr-50 gtr-uniform">
             <div class="col-12"><span class="image fit"> 
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/circuit2.png?raw=true" alt="circuit2" >
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/circuit2.png?raw=true" alt="circuit2" >
             </span></div>
         </div>
     </div>
@@ -81,10 +81,10 @@ cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUdYh8JTACmwQbD6
     <div class="box alt twoimg">
         <div class="row gtr-50 gtr-uniform imgs multi">
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/final1.png?raw=true" alt="final1">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/final1.png?raw=true" alt="final1">
             </span></div>
             <div class="col-6"> <span class="image fit">
-                <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/final2.png?raw=true" alt="final2">
+                <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/final2.png?raw=true" alt="final2">
             </span></div>
         </div>
     </div>

@@ -4,7 +4,7 @@ title: "인공지능 개론"
 published: true
 grade: "4"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/ai_cover.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/ai_cover.png?raw=true"
 ---
 <h3>CNN을 이용한 한글인식</h3>
 

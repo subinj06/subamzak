@@ -4,7 +4,7 @@ title: "웹 프로그래밍"
 published: true
 grade: "3"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/banner.jpg?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/banner.jpg?raw=true"
 ---
 <h3 style="color:tomato;">수밤작 매운맛</h3>
 <p>

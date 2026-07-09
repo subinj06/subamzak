@@ -4,7 +4,7 @@ title: "주니어 창의 경연대회"
 published: true
 grade: "0"
 competition: true
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/doorlockcover.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/doorlockcover.png?raw=true"
 ---
 <h3>절대 혼자가 아니야, <span style="color:red">도어락</span> </h3>
 
@@ -40,7 +40,7 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/door
 <div class="box alt threeimg">
               <div class="row gtr-50 gtr-uniform imgs prize">
                 <div class="col-4"><span class="image fit">
-            <img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/ju_c.png?raw=true" alt="JUNIOR">
+            <img src="https://github.com/subinj06/subamzak/blob/master/src/assets/images/ju_c.png?raw=true" alt="JUNIOR">
         </span></div>
         <div class="col-4"><span class="image fit"> </span></div>
 </div>

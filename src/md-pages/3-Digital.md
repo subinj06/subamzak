@@ -4,7 +4,7 @@ title: "디지털 신호처리"
 published: true
 grade: "3"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/digitalcover.png?raw=true"
+cover: "https://github.com/subinj06/subamzak/blob/master/src/assets/images/digitalcover.png?raw=true"
 ---
 
 <h3> 상보필터</h3>
